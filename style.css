@@ -1,0 +1,29 @@
+body {
+	background:#86c7ff;
+	font-family:'Roboto', sans-serif;
+	text-align:center;
+}
+
+.button {
+	background:#fff;
+	border:3px solid #f01e59;
+	height:120px;
+	margin:6px;
+	text-transform:uppercase;
+	width:20%;
+}
+
+.button:hover {
+	color:#f4e7ea;
+}
+
+.play {
+	background:#f01e59;
+	color:#f4e7ea;
+}
+
+.row {
+	display:flex;
+	margin:0 auto;
+	width:70%;
+}
